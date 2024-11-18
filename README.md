@@ -13,3 +13,7 @@ Below are explanations of the available datasets.
 ## Soccer Players Ages
 
 - This data comes from Kaggle and is derived from Transfermarkt. [You can find the data here](https://www.kaggle.com/datasets/davidcariboo/player-scores/data?select=players.csv)
+
+## IMDB Movies Data
+
+- This data comes from [Kaggle](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows).
